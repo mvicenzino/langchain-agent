@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+google-search-results
+wikipedia
+beautifulsoup4
+requests
+python-dotenv
