@@ -5,3 +5,4 @@ wikipedia
 beautifulsoup4
 requests
 python-dotenv
+yfinance
